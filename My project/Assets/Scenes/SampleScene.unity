@@ -406,18 +406,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1096017535574471278, guid: fa865c700f8748142881436d7d68273b, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2553566421410182087, guid: fa865c700f8748142881436d7d68273b, type: 3}
-      propertyPath: m_Name
-      value: UnPressed_2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2553566421410182087, guid: fa865c700f8748142881436d7d68273b, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6031641459483477501, guid: fa865c700f8748142881436d7d68273b, type: 3}
       propertyPath: m_Name
       value: Button
